@@ -38,13 +38,6 @@ A secure full-stack platform for professional athletes and brand managers to tra
 A modular and highly secure student placement tracking dashboard implementing JWT stateless sessions, database route guards, and data isolation boundaries to log interview runs, packages, and statuses.
 * **Tech Stack:** React, TypeScript, Tailwind CSS v4, Node.js, Express.js, MongoDB (Mongoose), MongoMemoryServer (Fallback)
 ---
-## 📈 Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumanth0718&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sumanth's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth0718&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Sumanth's Top Languages" width="48%" />
-</p>
-
-
 <!--
 **Sumanth0718/Sumanth0718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
