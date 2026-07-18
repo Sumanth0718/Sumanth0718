@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./profile_banner.png" alt="Profile Banner" width="100%">
-</p>
-
 # Hi, I'm Sumanth L 👋
 I am a Computer Science undergraduate passionate about building high-performance systems and scalable web applications. My expertise lies in **Backend Engineering**, **Full-Stack Development**, and **AI Engineering**. I enjoy implementing core algorithms from scratch and bridging the gap between local AI capabilities and modern web interfaces.
 - 🎓 **Undergraduate** in Computer Science & Engineering
